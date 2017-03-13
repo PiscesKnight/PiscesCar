@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0fb29a9-86e9-4e74-adcb-abd3be16d5da" name="Default" comment="" />
+    <list default="true" id="b0fb29a9-86e9-4e74-adcb-abd3be16d5da" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/demo/car_all.png" afterPath="$PROJECT_DIR$/image/demo/car_all.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/demo/car_cheding.png" afterPath="$PROJECT_DIR$/image/demo/car_cheding.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/demo/car_chemen.png" afterPath="$PROJECT_DIR$/image/demo/car_chemen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/demo/car_houbaoxiangang.png" afterPath="$PROJECT_DIR$/image/demo/car_houbaoxiangang.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/demo/car_hougaixiang.png" afterPath="$PROJECT_DIR$/image/demo/car_hougaixiang.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/demo/car_houshijing.png" afterPath="$PROJECT_DIR$/image/demo/car_houshijing.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/demo/car_jiaotaban.png" afterPath="$PROJECT_DIR$/image/demo/car_jiaotaban.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/demo/car_qianbaoxiangang.png" afterPath="$PROJECT_DIR$/image/demo/car_qianbaoxiangang.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/demo/car_yinqinggai.png" afterPath="$PROJECT_DIR$/image/demo/car_yinqinggai.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/demo/car_youhouyezhi.png" afterPath="$PROJECT_DIR$/image/demo/car_youhouyezhi.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/demo/car_youqianyezhi.png" afterPath="$PROJECT_DIR$/image/demo/car_youqianyezhi.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/demo/car_zuohouyezhi.png" afterPath="$PROJECT_DIR$/image/demo/car_zuohouyezhi.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/demo/car_zuoqianyezhi.png" afterPath="$PROJECT_DIR$/image/demo/car_zuoqianyezhi.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="weireliang.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -38,13 +53,56 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+            <state relative-caret-position="665">
+              <caret line="275" column="44" selection-start-line="275" selection-start-column="35" selection-end-line="275" selection-end-column="44" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <marker date="1487585476535" expanded="true" signature="5811:5829" ph="..." />
                 <marker date="1487585476535" expanded="true" signature="6711:6729" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="layer.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/demo/layer.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2112">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <marker date="1487146906461" expanded="true" signature="4946:5127" ph="..." />
+                <marker date="1487146906461" expanded="true" signature="5454:5557" ph="..." />
+                <marker date="1487146906461" expanded="true" signature="29263:29286" ph="..." />
+                <marker date="1487146906461" expanded="true" signature="29913:29921" ph="..." />
+                <marker date="1487146906461" expanded="true" signature="29921:29929" ph="..." />
+                <marker date="1487146906461" expanded="true" signature="29929:29937" ph="..." />
+                <marker date="1487146906461" expanded="true" signature="29937:29945" ph="..." />
+                <marker date="1487146906461" expanded="true" signature="29945:29953" ph="..." />
+                <marker date="1487146906461" expanded="true" signature="29953:29961" ph="..." />
+                <marker date="1487146906461" expanded="true" signature="29961:29969" ph="..." />
+                <marker date="1487146906461" expanded="true" signature="29969:29977" ph="..." />
+                <marker date="1487146906461" expanded="true" signature="29981:29989" ph="..." />
+                <marker date="1487146906461" expanded="true" signature="29989:29997" ph="..." />
+                <marker date="1487146906461" expanded="true" signature="29997:30005" ph="..." />
+                <marker date="1487146906461" expanded="true" signature="30005:30013" ph="..." />
+                <marker date="1487146906461" expanded="true" signature="30013:30021" ph="..." />
+                <marker date="1487146906461" expanded="true" signature="30021:30029" ph="..." />
+                <marker date="1487146906461" expanded="true" signature="30029:30037" ph="..." />
+                <marker date="1487146906461" expanded="true" signature="30037:30045" ph="..." />
+                <marker date="1487146906461" expanded="true" signature="30045:30053" ph="..." />
+                <marker date="1487146906461" expanded="true" signature="30053:30061" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="layer.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/demo/need/layer.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -88,6 +146,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -110,10 +171,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2009" />
+    <option name="x" value="69" />
     <option name="y" value="-9" />
-    <option name="width" value="1968" />
-    <option name="height" value="1170" />
+    <option name="width" value="1860" />
+    <option name="height" value="1098" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -140,7 +201,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -215,13 +276,57 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="weireliang" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="weireliang" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="need" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="weireliang" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="weireliang" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -231,6 +336,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -316,17 +422,23 @@
       <workItem from="1487581453440" duration="4287000" />
       <workItem from="1487585785205" duration="52000" />
       <workItem from="1487657550971" duration="671000" />
+      <workItem from="1488854800916" duration="615000" />
+      <workItem from="1488884971406" duration="604000" />
+      <workItem from="1488902697139" duration="932000" />
+      <workItem from="1488963861488" duration="630000" />
+      <workItem from="1489021208666" duration="1349000" />
+      <workItem from="1489337369253" duration="905000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51499000" />
+    <option name="totallyTimeSpent" value="56534000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2009" y="-9" width="1968" height="1170" extended-state="6" />
+    <frame x="69" y="-9" width="1860" height="1098" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.04" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16198348" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -362,6 +474,22 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/json/Car.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77000">
+          <caret line="3500" column="4" selection-start-line="3500" selection-start-column="4" selection-end-line="3501" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2222">
@@ -735,10 +863,49 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/demo/need/layer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/demo/layer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2112">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <marker date="1487146906461" expanded="true" signature="4946:5127" ph="..." />
+            <marker date="1487146906461" expanded="true" signature="5454:5557" ph="..." />
+            <marker date="1487146906461" expanded="true" signature="29263:29286" ph="..." />
+            <marker date="1487146906461" expanded="true" signature="29913:29921" ph="..." />
+            <marker date="1487146906461" expanded="true" signature="29921:29929" ph="..." />
+            <marker date="1487146906461" expanded="true" signature="29929:29937" ph="..." />
+            <marker date="1487146906461" expanded="true" signature="29937:29945" ph="..." />
+            <marker date="1487146906461" expanded="true" signature="29945:29953" ph="..." />
+            <marker date="1487146906461" expanded="true" signature="29953:29961" ph="..." />
+            <marker date="1487146906461" expanded="true" signature="29961:29969" ph="..." />
+            <marker date="1487146906461" expanded="true" signature="29969:29977" ph="..." />
+            <marker date="1487146906461" expanded="true" signature="29981:29989" ph="..." />
+            <marker date="1487146906461" expanded="true" signature="29989:29997" ph="..." />
+            <marker date="1487146906461" expanded="true" signature="29997:30005" ph="..." />
+            <marker date="1487146906461" expanded="true" signature="30005:30013" ph="..." />
+            <marker date="1487146906461" expanded="true" signature="30013:30021" ph="..." />
+            <marker date="1487146906461" expanded="true" signature="30021:30029" ph="..." />
+            <marker date="1487146906461" expanded="true" signature="30029:30037" ph="..." />
+            <marker date="1487146906461" expanded="true" signature="30037:30045" ph="..." />
+            <marker date="1487146906461" expanded="true" signature="30045:30053" ph="..." />
+            <marker date="1487146906461" expanded="true" signature="30053:30061" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+        <state relative-caret-position="665">
+          <caret line="275" column="44" selection-start-line="275" selection-start-column="35" selection-end-line="275" selection-end-column="44" />
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <marker date="1487585476535" expanded="true" signature="5811:5829" ph="..." />
